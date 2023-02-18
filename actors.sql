@@ -1,3 +1,7 @@
+JE ne vois pas ton exercice 
+tout est commenté
+
+
 --CREATE TABLE actors(
  --actor_id SERIAL PRIMARY KEY,
  --first_name VARCHAR (50) NOT NULL,
